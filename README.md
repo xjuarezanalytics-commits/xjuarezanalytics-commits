@@ -7,10 +7,10 @@
 
 ## 👩‍💻 About me
 
-- 📊 Aspiring **Data Analyst** focused on Python & SQL  
-- 🧬 Background in **Biology**, with strong analytical and scientific thinking  
-- 📈 Passionate about **data-driven decision making** and problem solving  
-- 🚀 Currently building solid foundations through hands-on projects  
+- 📊 Junior Data Analyst with experience in Python and SQL
+- 🧬 Solid foundation in data analysis, problem solving and scientific thinking
+- 📈 Comfortable working with datasets, analysis, and reporting
+- 🚀 Ongoing skill development through hands-on projects
 
 
 ## 🛠️ Tech Stack
