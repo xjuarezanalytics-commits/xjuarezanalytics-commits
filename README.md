@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hi, I'm Ximena 👋</h1>
+  <h3 align="center">Data Analyst | Python & SQL | Scientific mindset</h3>
+</div>
 
-<!--
-**xjuarezanalytics-commits/xjuarezanalytics-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Aspiring **Data Analyst** focused on Python & SQL  
+- 🧬 Background in **Biology**, with strong analytical and scientific thinking  
+- 📈 Passionate about **data-driven decision making** and problem solving  
+- 🚀 Currently building solid foundations through hands-on projects  
+
+
+## 🛠️ Tech Stack
+
+- Languages:   Python | SQL
+- Libraries:   pandas | numpy | matplotlib | seaborn
+- Tools:       Git | GitHub | Jupyter Notebook
+- Databases:   PostgreSQL | SQLite  
